@@ -1,0 +1,46 @@
+{
+  "name": "layout_code_kit",
+  "version": "0.1.0",
+  "description": "Layout KIT ",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewBurdeinyi/layout_code_kit.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js",
+    "sass",
+    "jquery"
+  ],
+  "author": "Andrew Burdeinyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndrewBurdeinyi/layout_code_kit/issues"
+  },
+  "homepage": "https://github.com/AndrewBurdeinyi/layout_code_kit#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.13",
+    "@babel/preset-env": "^7.12.13",
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-beautify-code": "^2.0.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-file-include": "^2.3.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-include": "^2.4.1",
+    "gulp-newer": "^1.4.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify": "^3.0.2"
+  },
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}

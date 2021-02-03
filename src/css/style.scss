@@ -1,0 +1,37 @@
+// Import css from node_modules
+
+
+
+// Import css from components
+
+@import "../css/components/_fonts.scss";
+@import "../css/components/_index.scss";
+
+// Global style
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1 {
+    font-family: Open Sans;
+    font-weight: 700;
+    font-size: 42px;
+    text-align: center;
+    color: darkgray;
+}
+p {
+    margin: 25px 10px;
+    font-family: Open Sans;
+    font-weight: 300;
+    text-align: center;
+    color: gray;
+}
