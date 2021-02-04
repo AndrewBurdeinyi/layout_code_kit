@@ -5,7 +5,7 @@
 
 #Build generated
 /distribution
-/server
+/dist
 
 # Dependency directories
 /node_modules
