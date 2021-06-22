@@ -1,1 +1,1 @@
-console.log('Hello world!');
+// Custom JS Scripts
